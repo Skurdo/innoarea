@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController{
     UILabel *label;
+    UITextAlignment *ali;
 }
 
 @end
